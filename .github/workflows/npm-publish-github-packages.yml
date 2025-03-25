@@ -42,4 +42,4 @@ jobs:
           folder: dist       # Vite uses 'dist', change to 'build' if using Create React App
           
       - name: Invalidate Cache (Optional)
-        run: curl -X PURGE https://sethminaudana.github.io/My_Portfolio/
+        run: curl -X PURGE https://sethminaudana.github.io/
