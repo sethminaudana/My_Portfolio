@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sethminaudana.github.io/My_Portfolio",
+  "homepage": "https://sethminaudana.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
