@@ -22,9 +22,11 @@ jobs:
 
      - name: Install Dependencies
        run: npm install
+       working-directory: .
 
      - name: Build Project
        run: npm run build
+       working-directory: .
 
   deploy:
     needs: build
